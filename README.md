@@ -84,8 +84,8 @@ loveMessages: {
 // Final Celebration
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    message: "yayaya puchu i wonnn",          // Celebration message
+    emojis: "❤️🙏🛐😋💗🥰"                        // Celebration emojis
 }
 
 // Website Colors
