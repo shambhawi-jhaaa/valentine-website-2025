@@ -65,7 +65,7 @@ questions: {
     second: {
         text: "How much do you love me?",          // Second question
         startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        nextBtn: "Next 😋"                         // Next button text
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
